@@ -37,4 +37,4 @@ To run this project on your local machine, you will need Python 3.x and several 
 Contributions are welcome! Please feel free to submit issues and pull requests.
 
 # License
-This project is licensed under the MIT License - see the LICENSE file for details
+This project is licensed under the MIT License - see the LICENSE file for details.
